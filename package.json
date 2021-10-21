@@ -1,0 +1,24 @@
+{
+  "name": "ExamenWeb2",
+  "version": "1.0.0",
+  "description": "Bruno Hae sal Vázquez Hwang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haesal/ExamenWeb2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haesal/ExamenWeb2/issues"
+  },
+  "homepage": "https://github.com/Haesal/ExamenWeb2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
