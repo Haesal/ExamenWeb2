@@ -1,6 +1,8 @@
 # ExamenWeb2
 # Bruno Hae sal Vázquez Hwang
 
+Este trabajo uso la instancia en la nube.
+
 ## Obtener lugar por pais (GET /lugar/obtenerLugar):
 #### Se recibe un JSON con pais: String.
 En este caso se recibe un pais en el body y con esto se busca en la BD todos los lugares que son en ese pais:
