@@ -1,7 +1,8 @@
 # ExamenWeb2
 # Bruno Hae sal Vázquez Hwang
 
-Este trabajo uso la instancia en la nube.
+IP: 54.173.202.133
+BD: base5
 
 ## Obtener lugar por pais (GET /lugar/obtenerLugar):
 #### Se recibe un JSON con pais: String.
